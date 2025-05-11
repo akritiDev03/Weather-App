@@ -34,10 +34,3 @@ This project uses the OpenWeatherMap API. The current API key is included in the
 3. Getting your API key
 4. Replacing the API key in `script.js`
 
-## Screenshots
-
-Add screenshots of your app here
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
